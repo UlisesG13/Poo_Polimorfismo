@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.ulisesg.polimorfismo_1/com.ulisesg.polimorfismo_1.HelloApplication
+                            <mainClass>com.ulisesg.polimorfismo_1/com.ulisesg.polimorfismo_1.App
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

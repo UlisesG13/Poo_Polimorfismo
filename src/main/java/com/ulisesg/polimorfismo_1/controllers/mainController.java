@@ -7,7 +7,7 @@ import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
 
-public class HelloController {
+public class mainController {
 
     Escuela escuela = new Escuela();
 
